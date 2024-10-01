@@ -51,12 +51,7 @@ I'm a **Software Development Engineer** based in Ahmedabad, Gujarat, passionate 
 ---
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlakhara&layout=compact&theme=radical&card_width=100%25)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlakhara&layout=compact&theme=radical&card_width=100%)
 
----
-
-### 📈 My Contributions
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vlakhara&theme=react-dark&card_width=100%25)
 
 
