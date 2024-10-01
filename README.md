@@ -12,7 +12,6 @@ I'm a **Software Development Engineer** based in Ahmedabad, Gujarat, passionate 
 
 ### 🌱 What I'm Learning
 - Diving deeper into **Microservices Architecture** and exploring advanced features of **Next.js** and **GraphQL**.
-- Enhancing real-time communication systems with **WebSockets** and **scalable REST APIs**.
 
 ---
 
@@ -52,7 +51,12 @@ I'm a **Software Development Engineer** based in Ahmedabad, Gujarat, passionate 
 ---
 
 ### 📊 GitHub Stats
-![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlakhara&show_icons=true&theme=radical&card_width=400&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlakhara&layout=compact&theme=radical&card_width=100%25)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlakhara&layout=compact&theme=radical&card_width=400)
+---
+
+### 📈 My Contributions
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vlakhara&theme=react-dark&card_width=100%25)
+
 
