@@ -2,13 +2,11 @@
 
 I'm a **Software Development Engineer** based in Ahmedabad, Gujarat, passionate about building scalable web applications and services. With experience in developing robust, real-time systems and working on diverse projects like shipping logistics, project management tools, and social applications, I focus on delivering high-quality, efficient solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=vlakhara&color=blueviolet)
-
 ---
 
 ### 🔭 What I'm Currently Working On
-- Developing a **Messenger Clone**: Exploring new technologies like OAuth and Next Auth by building a clone of Messenger. Using **Next.js**, **Tailwind CSS**, and **Prisma** to implement authentication and other core features.
 - **Yliway**: A platform combining LinkedIn’s networking features with top e-learning capabilities. I'm contributing as a MERN Stack Developer, working on UI components and microservices APIs.
+- Developing a **Messenger Clone**: Exploring new technologies like OAuth and Next Auth by building a clone of Messenger. Using **Next.js**, **Tailwind CSS**, and **Prisma** to implement authentication and other core features.
 
 ---
 
@@ -58,4 +56,3 @@ I'm a **Software Development Engineer** based in Ahmedabad, Gujarat, passionate 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlakhara&layout=compact&theme=radical&card_width=400)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vlakhara&theme=dracula&row=1&column=6)
