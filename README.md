@@ -4,17 +4,6 @@ I'm a **Software Development Engineer** based in Ahmedabad, Gujarat, passionate 
 
 ---
 
-### 🔭 What I'm Currently Working On
-- **Yliway**: A platform combining LinkedIn’s networking features with top e-learning capabilities. I'm contributing as a MERN Stack Developer, working on UI components and microservices APIs.
-- Developing a **Service Provider App**: Exploring new functionalities. Using **React.js**, **Node.js**, and **MongoDb**.
-
----
-
-### 🌱 What I'm Learning
-- Diving deeper into **Microservices Architecture** and exploring advanced features of **Next.js** and **GraphQL**.
-
----
-
 ### 💼 My Skills
 #### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
