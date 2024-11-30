@@ -24,17 +24,13 @@ I'm a **Software Development Engineer** based in Ahmedabad, Gujarat, passionate 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
-#### Tools & Platforms
+#### Tools
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 
 ---
 
 ### 💬 Connect with Me
 - **LinkedIn**: [Vipul Lakhara](https://www.linkedin.com/in/vipullakhara/)
-- **GeeksForGeeks**: [Vipul Lakhara](https://auth.geeksforgeeks.org/user/vipullakhara18)
 - **Email**: [vipullakhara18@gmail.com](mailto:vipullakhara18@gmail.com)
 
 ---
