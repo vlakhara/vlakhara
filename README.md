@@ -6,7 +6,7 @@ I'm a **Software Development Engineer** based in Ahmedabad, Gujarat, passionate 
 
 ### 🔭 What I'm Currently Working On
 - **Yliway**: A platform combining LinkedIn’s networking features with top e-learning capabilities. I'm contributing as a MERN Stack Developer, working on UI components and microservices APIs.
-- Developing a **Messenger Clone**: Exploring new technologies like OAuth and Next Auth by building a clone of Messenger. Using **Next.js**, **Tailwind CSS**, and **Prisma** to implement authentication and other core features.
+- Developing a **Service Provider App**: Exploring new functionalities. Using **React.js**, **Node.js**, and **MongoDb**.
 
 ---
 
