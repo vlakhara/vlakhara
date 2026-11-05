@@ -1,103 +1,101 @@
 <p align="center">
-  <img width="100%" alt="Vipul Lakhara, Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:6d28d9&height=200&section=header&text=Vipul%20Lakhara&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descSize=22&descAlignY=60&descColor=ffffff" />
+  <img width="100%" alt="Vipul Lakhara, Software Engineer" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f766e,100:f59e0b&height=190&section=header&text=Vipul%20Lakhara&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Bengaluru&descSize=20&descAlignY=64&descColor=ffffff" />
 </p>
 
 <p align="center">
-  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=560&height=40&lines=Building+scalable+web+apps;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Real-time+systems+are+my+thing" />
+  <img alt="whoami" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1300&color=14B8A6&center=true&vCenter=true&width=640&height=40&lines=%24+whoami+%E2%86%92+Vipul+Lakhara;%24+role+%E2%86%92+Software+Engineer+%40+Thoughtworks;%24+stack+%E2%86%92+Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;%24+location+%E2%86%92+Bengaluru%2C+India" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vipullakhara/"><img src="https://img.shields.io/badge/LINKEDIN-VIPULLAKHARA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/github/followers/vlakhara?label=FOLLOWERS&style=for-the-badge&logo=github&color=6d28d9" alt="GitHub followers">
-  <img src="https://komarev.com/ghpvc/?username=vlakhara&label=PROFILE%20VIEWS&style=for-the-badge&color=6d28d9" alt="Profile views">
+  <a href="https://www.linkedin.com/in/vipullakhara/"><img src="https://img.shields.io/badge/LinkedIn-vipullakhara-0f172a?style=flat-square&logo=linkedin&logoColor=14b8a6" alt="LinkedIn"></a>
+  <a href="mailto:vipullakhara18@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-0f172a?style=flat-square&logo=gmail&logoColor=f59e0b" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=vlakhara&label=Profile%20views&style=flat-square&color=0f766e" alt="Profile views">
 </p>
 
 ---
 
-## 👋 About Me
+## `cat about.ts`
 
-I'm a **Software Engineer at Thoughtworks** who loves building clean, performant systems, from React UIs to Spring Boot microservices and real-time backends.
-
-- 🏗️ I build end-to-end features across the full stack
-- 🔍 Microservices and search: **Spring Boot**, **PostgreSQL** and **Elasticsearch**
-- 🧪 Big on testing: JUnit suites with 100% coverage on Spring Boot services
-- 🏢 Joined **Thoughtworks** in September 2026, previously at **Lanatus Systems LLP**
-- 📍 Based in **Bengaluru, India**
-- 🤝 Open to collaborating on interesting projects
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Data & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🧪 Testing & Tooling
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+```ts
+const vipul = {
+  role: "Software Engineer",
+  company: "Thoughtworks",          // joined Sept 2026
+  location: "Bengaluru, India",
+  previously: "Lanatus Systems LLP", // Dec 2022 → 2026
+  education: "M.Sc. IT, Sardar Patel University",
+  focus: ["full-stack features", "microservices", "search", "real-time systems"],
+  loves: ["clean code", "well-tested services", "fast, reliable products"],
+  openTo: ["interesting projects", "great conversations"],
+};
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 How I build
 
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=vlakhara&theme=tokyonight&hide_border=true" />
-</p>
+```mermaid
+flowchart LR
+    UI["🖥️ React · Next.js<br/>TypeScript"] -->|"REST · WebSockets"| API["⚙️ Spring Boot · Node.js<br/>Microservices"]
+    API --> PG[("🐘 PostgreSQL")]
+    API --> ES[("🔍 Elasticsearch")]
+    API --> MG[("🍃 MongoDB")]
+    API -.->|"shipped with"| OPS["🐳 Docker · AWS · CI/CD"]
+```
 
 ---
 
-## 🚀 Featured Projects
+## 🧰 Toolbox
 
-### ♟️ [Real-Time Multiplayer Chess](https://ch3ss.netlify.app)
+| Layer | Tools |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=14b8a6) ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=14b8a6) ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=14b8a6) ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=14b8a6) ![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=14b8a6) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0f172a?style=flat-square&logo=springboot&logoColor=14b8a6) ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=14b8a6) ![Express](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=14b8a6) ![Nest.js](https://img.shields.io/badge/Nest.js-0f172a?style=flat-square&logo=nestjs&logoColor=14b8a6) ![Socket.IO](https://img.shields.io/badge/Socket.IO-0f172a?style=flat-square&logo=socketdotio&logoColor=14b8a6) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=14b8a6) ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=14b8a6) ![Redux](https://img.shields.io/badge/Redux-0f172a?style=flat-square&logo=redux&logoColor=14b8a6) ![Material-UI](https://img.shields.io/badge/Material--UI-0f172a?style=flat-square&logo=mui&logoColor=14b8a6) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=14b8a6) ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=14b8a6) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0f172a?style=flat-square&logo=elasticsearch&logoColor=14b8a6) |
+| **Cloud & Ops** | ![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonwebservices&logoColor=14b8a6) ![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=14b8a6) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0f172a?style=flat-square&logo=githubactions&logoColor=14b8a6) |
+| **Quality** | ![JUnit](https://img.shields.io/badge/JUnit-0f172a?style=flat-square&logo=junit5&logoColor=14b8a6) ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=14b8a6) ![Jira](https://img.shields.io/badge/Jira-0f172a?style=flat-square&logo=jira&logoColor=14b8a6) |
 
-> A full-stack multiplayer chess game built with **Next.js**, **TypeScript** and a **Java Spring Boot** backend
+---
 
-- ♞ Complete rule enforcement: castling, en passant and checkmate detection
+## 📜 `git log` of my work
+
+```text
+feat(react)    reusable components + cleaner state     → ~20% fewer UI defects
+feat(spring)   PostgreSQL ⇄ Elasticsearch sync service → +30% sync accuracy
+perf(search)   nested sorting + inner hits tuned       → ~40% less compute
+test(junit)    unit + integration suites               → 100% coverage on Spring Boot services
+fix(prod)      root-cause analysis from SLF4J logs and devtools
+```
+
+---
+
+## ♟️ Featured: Real-Time Multiplayer Chess
+
+<a href="https://ch3ss.netlify.app"><img src="https://img.shields.io/badge/▶%20Play%20it%20live-ch3ss.netlify.app-0f766e?style=for-the-badge" alt="Play it live"></a>
+
+A full-stack chess game where two players move in real time. The frontend is **Next.js + TypeScript**, and a **Java Spring Boot** backend manages live WebSocket sessions and keeps both players in sync.
+
+- ♞ Full rule enforcement: castling, en passant and checkmate detection
 - ⚡ Real-time play over WebSockets and Socket.IO
-- 🔗 Spring Boot backend managing live sessions and player synchronization
-- 🌐 [Play it live](https://ch3ss.netlify.app) · [Frontend repo](https://github.com/vlakhara/chess-frontend) · [Backend repo](https://github.com/vlakhara/chess-backend)
+- 📦 Code: [chess-frontend](https://github.com/vlakhara/chess-frontend) · [chess-backend](https://github.com/vlakhara/chess-backend)
 
-`Next.js` `TypeScript` `Java` `Spring Boot` `WebSockets` `Socket.IO`
-
-### More
-
-- 💬 [messenger-clone](https://github.com/vlakhara/messenger-clone): a Messenger-style chat app
-- 📡 [webrtc-demo](https://github.com/vlakhara/webrtc-demo): peer-to-peer communication with WebRTC
-- 🧑‍💻 [Portfolio](https://github.com/vlakhara/Portfolio): my personal site
+**Also on my shelf:** [messenger-clone](https://github.com/vlakhara/messenger-clone) · [webrtc-demo](https://github.com/vlakhara/webrtc-demo) · [Portfolio](https://github.com/vlakhara/Portfolio)
 
 ---
 
-## 🤝 Let's Connect
+## 🔥 Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vipullakhara/"><img src="https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="mailto:vipullakhara18@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=vlakhara&hide_border=true&background=0D1117&ring=14B8A6&fire=F59E0B&currStreakNum=14B8A6&sideNums=14B8A6&currStreakLabel=F59E0B&sideLabels=94A3B8&dates=94A3B8" />
 </p>
 
-<p align="center"><i>Always open to interesting projects, new ideas, and great conversations.</i></p>
+---
 
 <p align="center">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:6d28d9&height=120&section=footer" />
+  <i>Got an interesting project or idea? Let's talk.</i><br><br>
+  <a href="https://www.linkedin.com/in/vipullakhara/"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0f766e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+<p align="center">
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:f59e0b&height=60&section=footer" />
 </p>
